@@ -7,4 +7,7 @@ SECTION 10: Photo app
   * $ rails new photo-app
   * $ rails generate controller welcome index
   * in routes.rb: root 'welcome#index'
-
+  * $ git init
+  * $ git add -A
+  * created repository in GH
+  * $ git remote add origin git@github.com:veronicie/photo_app.git
